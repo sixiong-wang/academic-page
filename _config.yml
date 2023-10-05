@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Sixiong Wang - Homepage"
-description              : "B.Arch \\ Chang'an University"
+description              : "Male"
 repository               : "https://github.com/sixiong-wang?tab=repositories"
 
 # SEO Related
@@ -28,7 +28,7 @@ analytics:
 author:
   name             : "Sixiong Wang"
   avatar           : "images/SixiongWangProfileImage.png"
-  bio              : "Male"
+  bio              : "B.Arch \\ Chang'an University"
   location         : "Shannxi, China"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
