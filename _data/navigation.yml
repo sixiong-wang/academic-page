@@ -10,10 +10,10 @@ main:
     url: "/academic-page/#-selected-works"
 
   - title: "Awards and Publications"
-    url: "/academic-page/#-awards-and-publications"
+    url: "#-awards-and-publications"
 
   - title: "CV"
-    url: "/academic-page/#-educations"
+    url: "/home-page/#-educations"
 
   - title: "Portfolio"
     url: "pdf/ArchitecturalWorkshop-20220831-DesignsUtopia.pdf"
