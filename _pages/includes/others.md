@@ -7,12 +7,12 @@
 # 🏛️ Work Experience
 ---
 * Fall 2023: Assistant Architect
-  * ~~Province Firm~~
+  * ~~**Province Firm**~~
   * Duties included: Modeling, 
   * Supervisor: Jiong Chen
 
 * Fall 2020: Architectural Intern
-  * Shenzhen Huahui Design Co., Ltd
+  * **Shenzhen Huahui Design Co., Ltd**
   * Duties included: Draft Designing, 3D Modeling, Rendering, Diagram Drawing
   * Supervisor: Rui Wang
   
