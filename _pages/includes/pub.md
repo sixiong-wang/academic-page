@@ -7,8 +7,8 @@
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">Architectural Workshop</div>
-    <a href='pdf/project-xxxxx/your-pdf-document.pdf'> <!-- 添加超链接包围图片 -->
+    <div class="badge">Workshop</div>
+    <a href='images/Cover-JumpingFunLand.png'> <!-- 添加超链接包围图片 -->
         <img src='images/Cover-JumpingFunLand.png' alt="sym" width="100%">
     </a> <!-- 超链接结束 -->
 </div>
@@ -49,8 +49,8 @@ Suddenly, we realize that the work-led lifestyle is like obsessive-compulsive di
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">Architectural Workshop</div>
-    <a href='pdf/ArchitecturalWorkshop-20220831-DesignsUtopia.pdf'> <!-- 添加超链接包围图片 -->
+    <div class="badge">Workshop</div>
+    <a href='images/Cover-Designersnew-BabylonianUtopia-2.png'> <!-- 添加超链接包围图片 -->
         <img src='images/Cover-Designersnew-BabylonianUtopia-2.png' alt="sym" width="100%">
     </a> <!-- 超链接结束 -->
 </div>
@@ -87,8 +87,8 @@ Team Work: **Sixiong Wang**, Haolun Sheng, Xiaoyu Zhang
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">Architectural Competition</div>
-    <a href='pdf/project-xxxxx/your-pdf-document.pdf'> <!-- 添加超链接包围图片 -->
+    <div class="badge">Competition</div>
+    <a href='images/Cover-TheRescuePolicyofBeesandOrchids.png'> <!-- 添加超链接包围图片 -->
         <img src='images/Cover-TheRescuePolicyofBeesandOrchids.png' alt="sym" width="100%">
     </a> <!-- 超链接结束 -->
 </div>
@@ -126,8 +126,8 @@ Team Work: **Sixiong Wang**, Juhong Chen, Siyu Guo
 
 <!-- Paper Image -->
 <div class='paper-box-image'>
-    <div class="badge">Architectural Competition</div>
-    <a href='pdf/project-xxxxx/your-pdf-document.pdf'> <!-- 添加超链接包围图片 -->
+    <div class="badge">Competition</div>
+    <a href='images/Cover-TheNinthBox.png'> <!-- 添加超链接包围图片 -->
         <img src='images/Cover-TheNinthBox.png' alt="sym" width="100%">
     </a> <!-- 超链接结束 -->
 </div>
