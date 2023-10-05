@@ -1,6 +1,6 @@
 # 🏆 Awards and Publications
 
-## **Awards**
+## 🏅 **Awards**
 ---
 - ***Sep 2021* - 3rd Prize - (8 of 145)** 
 
@@ -26,10 +26,10 @@
 
 
 
-## **Publications**
+## 📖 **Publications**
 ---
 - ***2018.10* - The 3rd National Architectural Criticism Symposium - Selected paper**
 
-   "Design Strategies for the Renovation of Industrial Building Remains Based on Reinventing the Spirit of Place--Taking the Renovation of Yinggehai Salt Warehouse as an Example"
+   "Design Strategies for the Renovation of Industrial Building Remains Based on Reinventing the Spirit of Place -- Taking the Renovation of Yinggehai Salt Warehouse as an Example"
 
    Wiritters: *Qin Wang, Lei Zhang, Jiaxi Li, **Sixiong Wang***
