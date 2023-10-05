@@ -7,7 +7,7 @@
 # 💼 Work Experience
 ---
 * *Fall 2023*, Assistant Architect
-  * ~~**Province Firm**~~
+  * **Hainan Design and Reserch Institute Co., Ltd**
   * Duties included: Modeling, 
   * Supervisor: Jiong Chen
 
@@ -16,7 +16,7 @@
   * Duties included: Draft Designing, 3D Modeling, Rendering, Diagram Drawing
   * Supervisor: Rui Wang
   
-# 🖥️ Skills
+# 📍 Skills
 ---
 * Computer Skills:
   * Rhino, V-ray, Photoshop, Illustrator (main, proficient)
