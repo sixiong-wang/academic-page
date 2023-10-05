@@ -137,7 +137,7 @@ Team Work: **Sixiong Wang**, Juhong Chen, Siyu Guo
 
 **UA Creation Award & International Concept Design Competition - Masterpiece Award (28 of 622)**
 \\
-Instructor: Lei Zhang, Lin Zhang
+Instructor: Lei Zhang (Dean and Professor of CHD), Lin Zhang
 \\
 Team Work: Qin Wang, **Sixiong Wang**, Ziyi Xu
 
