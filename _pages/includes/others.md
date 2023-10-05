@@ -1,6 +1,6 @@
 # 🎓 Educations
 
-- *Sep 2021 - Current*, Architectural Research
+* *Sep 2021 - Current*, Architectural Research
 * *Sep 2016 - Jul 2021*, BArch, Architecture, Chang'an Univeristy, Xi'an.
 * *Sep 2013 - Jul 2016*, Hainan Middle School, Haikou.
 
