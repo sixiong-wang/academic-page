@@ -28,7 +28,7 @@
 
 ## 📖 **Publications**
 ---
-- ***2018.10* - The 3rd National Architectural Criticism Symposium - Selected paper**
+- ***Dec 2019* - The 3rd National Architectural Criticism Symposium - Selected paper**
 
    "Design Strategies for the Renovation of Industrial Building Remains Based on Reinventing the Spirit of Place -- Taking the Renovation of Yinggehai Salt Warehouse as an Example"
 
