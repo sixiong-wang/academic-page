@@ -4,7 +4,7 @@
 * *Sep 2016 - Jul 2021*, BArch, Architecture, Chang'an Univeristy, Xi'an.
 * *Sep 2013 - Jul 2016*, Hainan Middle School, Haikou.
 
-# 🏛️ Work Experience
+# 💼 Work Experience
 ---
 * *Fall 2023*, Assistant Architect
   * ~~**Province Firm**~~
@@ -16,7 +16,7 @@
   * Duties included: Draft Designing, 3D Modeling, Rendering, Diagram Drawing
   * Supervisor: Rui Wang
   
-# 🗝️ Skills
+# 🖥️ Skills
 ---
 * Computer Skills:
   * Rhino, V-ray, Photoshop, Illustrator (main, proficient)

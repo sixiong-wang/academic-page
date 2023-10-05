@@ -120,7 +120,7 @@ Team Work: **Sixiong Wang**, Juhong Chen, Siyu Guo
 
 
 
-## 🌒 The Ninth Box: Reconstruction of the Unseen [[visit project]]()
+## 💔 The Ninth Box: Reconstruction of the Unseen [[visit project]]()
 
 <div class='paper-box'>
 
