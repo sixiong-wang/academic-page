@@ -43,7 +43,7 @@ Suddenly, we realize that the work-led lifestyle is like obsessive-compulsive di
 
 
 
-## 👁️‍🗨️ Designer's new-Babyloian Utopia [[visit project]](../home-page/pdf/ArchitecturalWorkshop-20220831-DesignsUtopia.pdf)
+## 👁️‍🗨️ Designer's new-Babyloian Utopia [[visit project]](pdf/ArchitecturalWorkshop-20220831-DesignsUtopia.pdf)
 
 <div class='paper-box'>
 
