@@ -1,7 +1,7 @@
 # 🏆 Awards and Publications
 
 ## 🏅 **Awards**
-
+---
 - ***Sep 2021* - 3rd Prize - (8 of 145)** 
 
    Zhongshan OCT Happy Coast Center Green Axis Public Space Design Competition - "Usage Guidelines for Zhongshan Square" 
@@ -27,7 +27,7 @@
 
 
 ## 📖 **Publications**
-
+---
 - ***Dec 2019* - The 3rd National Architectural Criticism Symposium - Selected paper**
 
    "Design Strategies for the Renovation of Industrial Building Remains Based on Reinventing the Spirit of Place -- Taking the Renovation of Yinggehai Salt Warehouse as an Example"
