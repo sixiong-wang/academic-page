@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Sixiong Wang - Homepage"
-description              : "Male"
+title                    : "Sixiong Wang - Academic Page"
+description              : "Male<br> This website is edited by my self"
 repository               : "https://github.com/sixiong-wang?tab=repositories"
 
 # SEO Related
