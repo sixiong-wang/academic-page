@@ -35,7 +35,8 @@ author:
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "sixiong.wang@chd.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  Issuu            : "https://issuu.com/sixiong.wang"
+  uri              : "https://issuu.com/sixiong.wang"
+  issuu            : "sixiong.wang"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -50,7 +51,7 @@ author:
   lastfm           :
   linkedin         :
   orcid            :
-  pinterest        : "https://issuu.com/sixiong.wang"
+  pinterest        : "caule2079/"
   soundcloud       :
   stackoverflow    : 
   steam            :
