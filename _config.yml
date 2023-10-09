@@ -37,31 +37,31 @@ author:
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://issuu.com/sixiong.wang"
   issuu            : "sixiong.wang"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
+  bitbucket        : "test"
+  codepen          : "test"
+  dribbble         : "test"
+  flickr           : "test"
+  facebook         : "test"
+  foursquare       : "test"
   github           : "sixiong-wang?tab=repositories"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : 
-  lastfm           :
-  linkedin         :
-  orcid            :
+  google_plus      : "test"
+  keybase          : "test"
+  instagram        : "test"
+  impactstory      :  "test"
+  lastfm           : "test"
+  linkedin         : "test"
+  orcid            : "test"
   pinterest        : "caule2079/"
-  soundcloud       :
-  stackoverflow    : 
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  soundcloud       : "test"
+  stackoverflow    :  "test"
+  steam            : "test"
+  tumblr           : "test"
+  twitter          : "test"
+  vine             : "test"
+  weibo            : "test"
+  xing             : "test"
+  youtube          : "test"
+  wikipedia        : "test"
 
 
 # Reading Files
