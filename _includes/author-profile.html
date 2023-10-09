@@ -67,6 +67,9 @@
       {% if author.issuu %}
         <li><a href="https://issuu.com/{{ author.issuu }}"><i class="fab fa-fw fa-link" aria-hidden="true"></i> Issuu</a></li>
       {% endif %}
+      {% if author.pinterest %}
+        <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i> Pinterest</a></li>
+      {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
       {% endif %}
@@ -78,9 +81,6 @@
       {% endif %}
       {% if author.dribbble %}
         <li><a href="https://dribbble.com/{{ author.dribbble }}"><i class="fab fa-fw fa-dribbble-square" aria-hidden="true"></i> Dribbble</a></li>
-      {% endif %}
-      {% if author.pinterest %}
-        <li><a href="https://www.pinterest.com/{{ author.pinterest }}"><i class="fab fa-fw fa-pinterest" aria-hidden="true"></i> Pinterest</a></li>
       {% endif %}
       {% if author.foursquare %}
         <li><a href="https://foursquare.com/{{ author.foursquare }}"><i class="fab fa-fw fa-foursquare" aria-hidden="true"></i> Foursquare</a></li>
