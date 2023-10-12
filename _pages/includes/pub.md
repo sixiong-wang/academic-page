@@ -1,7 +1,7 @@
 
 # 🪤 Selected Works
 
-## 🎢 Jumping Fun Land: Pressure Extraction Park [[visit project]](../../pdf/)
+## 🎢 Jumping Fun Land: Pressure Evacuation Park [[visit project]](../../pdf/)
 
 <div class='paper-box'>
 
