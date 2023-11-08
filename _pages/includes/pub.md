@@ -43,7 +43,7 @@ Suddenly, we realize that the work-led lifestyle is like obsessive-compulsive di
 
 
 
-## 👁️‍🗨️ Designer's new-Babyloian Utopia [[visit project]](pdf/ArchitecturalWorkshop-20220831-DesignsUtopia.pdf)
+## 🧿 Designer's new-Babyloian Utopia [[visit project]](pdf/ArchitecturalWorkshop-20220831-DesignsUtopia.pdf)
 
 <div class='paper-box'>
 
@@ -81,7 +81,7 @@ Team Work: **Sixiong Wang**, Haolun Sheng, Xiaoyu Zhang
 
 
 
-## 💉 The Rescue Policy of Bees and Orchids for Homeless Farmers [[visit project]]()
+## 💉 The Rescue Policy of Bees and Orchids for Homeless Farmers [[visit project]](pdf/ArchitecturalCompetition-20220825-HYP.pdf)
 
 <div class='paper-box'>
 
@@ -120,7 +120,7 @@ Team Work: **Sixiong Wang**, Juhong Chen, Siyu Guo
 
 
 
-## 💔 The Ninth Box: Reconstruction of the Unseen [[visit project]]()
+## 💔 The Ninth Box: Reconstruction of the Unseen [[visit project]](pdf/ArchitecturalCompetition-20190201-UAcity.pdf)
 
 <div class='paper-box'>
 
