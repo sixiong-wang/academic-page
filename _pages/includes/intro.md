@@ -1,9 +1,11 @@
 # 👨‍🎓 About Me
-- I was graduated from [Chang'an University](https://www.chd.edu.cn/) in July 2021. Through 5 years of study, I received my Bachelor of Architecture degree from [Chang'an University's School of Architecture](https://jzx.chd.edu.cn/).
+- I graduated from [Chang'an University](https://www.chd.edu.cn/) in July 2021 with a [Bachelor of Architecture degree](https://jzx.chd.edu.cn/). Currently, I work at [Hainan Provincial Design and Research Institute Co., Ltd](https://www.hniad.com/html/index.html), focusing on architectural design projects in my hometown, Hainan. In addition to project design, I am working on establishing an AI-based algorithmic workflow for architecture.
 
-    During my intern at [Shenzhen Huahui Design Co., Ltd](http://www.hhd-sz.com/), I primarily worked on projects involving real estate developers and government initiatives in South China. Following my graduation, I made the deliberate choice to pursue advanced studies in architectural theory. As part of this endeavor, I enthusiastically joined a research workshop under the guidance of Professor [Nate Hume](https://www.design.upenn.edu/people/nate-hume), Principal Architect [Finn Lam](), and Assistant Professor [Yu Yan](https://saup.szu.edu.cn/info/1094/2367.htm).
+    I have gained valuable practical experience, notably during my internship at [Shenzhen Huahui Design Co., Ltd](http://www.hhd-sz.com/). There, I delved into real estate finance models led by major developers and the government, contributing to the "Jumping Fun Land: Pressure Evacuation Park" project. Furthermore, during the pandemic, I worked for over a year at the [Xin Weipin Real Estate Leasing Operations Center](), continually delving into architectural theory.
+
+- In the pursuit of academic progress, I actively participated in numerous academic workshops worldwide, receiving guidance from professionals such as [Nate Hume from UPenn](https://www.design.upenn.edu/people/nate-hume), [Lifeng Lin from LIN Architecture](https://lin.archi/about), and [Yu Yan from SAUP](https://saup.szu.edu.cn/info/1094/2367.htm).
 
 
-- My passion for architecture has never waned, and my academic interests focus on the abstract "**movement**" of architecture: how the internal, silent building narrates; and how the external, static space guides the behavior of the visitor.
+- My passion for architecture has never waned, and my academic interests focus on the abstract "**movement**" of architecture: internally, how buildings narrate through silent forms; and externally, how static spaces guide dynamic behaviors of visitors.
 
 - You can find my CV here: [Curriculum Vitae](../academic-page/pdf/Curriculum-Vitae.pdf). And find my design works here: [Portfolio](../pdf/Portfolio.pdf).

@@ -100,7 +100,7 @@ Team Work: **Sixiong Wang**, Haolun Sheng, Xiaoyu Zhang
 
 **UIA-HYP CUP 2022: Folding Landscapes: Prototypes for an Urban-Rural Union**
 \\
-Instructor: Finn Lam
+Instructor: Lei Zhang (Dean and Professor of CHD), Tian Feng (Professor of SCU)
 \\
 Team Work: **Sixiong Wang**, Juhong Chen, Siyu Guo
 
