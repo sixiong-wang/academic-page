@@ -4,7 +4,8 @@
 
 * 📔 **Previous Reading**
 
-    * *Present* - [Social Condensers: Socialist Dictatorship and the Relationship with Soviet Constructivism](https://academic-accelerator.com/encyclopedia/zh-cn/social-condenser)
+    * *Present* - [AI-based algorithmic workflow for architecture - Sixiong Wang](https://zwj5uynwea3.feishu.cn/docx/JMfOdyG2xoNlREx4FPncLXtDnXb)
+    * *Nov 2023* - [Social Condensers: Socialist Dictatorship and the Relationship with Soviet Constructivism](https://academic-accelerator.com/encyclopedia/zh-cn/social-condenser)
     * *Sep 2023* - [Habitar - Juhani Pallasma](https://vdoc.pub/documents/habitar-5jv52ose5d60)
     * *May - Jun 2023* - [列斐伏尔 - 空间与政治]()
     <br>...
