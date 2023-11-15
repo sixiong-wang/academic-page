@@ -12,6 +12,12 @@
   * Duties included: Designing, 3D Modeling, Profile Formatting
   * Supervisor: Jiong Chen
 
+* ***2022 to 2023* - Xin Weipin Real Estate Leasing Operations Center**
+  * **Self-employment**
+  * Business Manager
+  * Duties included: Hotel Hospitality Operations, Design and Renovation
+  * Supervisor: --
+
 * ***Fall 2020* - Shenzhen Huahui Design Co., Ltd**
   * **Grade A Architectural Design Firm**
   * Architectural Intern
