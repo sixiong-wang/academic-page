@@ -6,6 +6,6 @@
     In the pursuit of academic progress, I actively participated in numerous academic workshops worldwide, receiving guidance from professionals such as [Nate Hume from UPenn](https://www.design.upenn.edu/people/nate-hume), [Lifeng Lin from LIN Architecture](https://lin.archi/about), and [Yu Yan from SAUP](https://saup.szu.edu.cn/info/1094/2367.htm).
 
 
-- My passion for architecture has never waned, and my academic interests focus on the abstract "**movement**" of architecture: internally, how buildings narrate through silent forms; and externally, how static spaces guide dynamic behaviors of visitors.
+- My passion for architecture has never waned, and my academic interests focus on the abstract "**movement**" of architecture: externally, how buildings narrate through silent forms; and internally, how static spaces guide dynamic behaviors of visitors.
 
 - You can find my CV here: [Curriculum Vitae](../academic-page/pdf/Curriculum-Vitae.pdf). And find my design works here: [Portfolio](../academic-page/pdf/Portfolio-20231231-FinalEdition-05-5.pdf).
