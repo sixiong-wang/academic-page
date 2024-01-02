@@ -8,4 +8,4 @@
 
 - My passion for architecture has never waned, and my academic interests focus on the abstract "**movement**" of architecture: internally, how buildings narrate through silent forms; and externally, how static spaces guide dynamic behaviors of visitors.
 
-- You can find my CV here: [Curriculum Vitae](../academic-page/pdf/Curriculum-Vitae.pdf). And find my design works here: [Portfolio](../pdf/Portfolio.pdf).
+- You can find my CV here: [Curriculum Vitae](../academic-page/pdf/Curriculum-Vitae.pdf). And find my design works here: [Portfolio](pdf/ArchitecturalWorkshop-20211115-JumpingFunland.pdf).
