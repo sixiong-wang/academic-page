@@ -1,7 +1,7 @@
 
 # 🪤 Selected Works
 
-## 🎢 Jumping Fun Land: Pressure Evacuation Park [[visit project]](../../pdf/)
+## 🎢 Jumping Fun Land: Pressure Evacuation Park [[visit project]](pdf/ArchitecturalWorkshop-20211115-JumpingFunland.pdf)
 
 <div class='paper-box'>
 
@@ -28,14 +28,14 @@ Instructor: Yu Yan (Assistant Professor of SAUP)
 <details close><summary>Click for more information</summary>
 <div markdown="1">
 - **My Roles** : Individual Work
-- **Abstract** : In Lacan's Graph of Desire, a **drive** is mentioned. 
-Its function is to castrate Jouissance to the margins of the body. The reflection of this castration on the body is the completion of the movement. 
-In order to describe this drive, this project places the age after the 2008 subprime mortgage crisis as a carrier for narrative, bankers need to use a force to stimulate the financial. 
-Bankers hijacked the drive and packaged it into a funland to save the age of jumping from buildings.
+- **Abstract** : J. Lacan’s Graph of Desire depicts an ascending **drive** which functions to relegate Jouissance to the peripheries of the body. This castration of the body culminates in acts such as speaking or excreting.
 
-    Are bankers really preventing jumping from buildings, or are they even exploiting jumping from buildings, which is the last resort to relieve stress, to increase their own profit?
-Suddenly, we realize that the work-led lifestyle is like obsessive-compulsive disorder, pushed by **an invisible force**.
-- Now, do you know what this **force** is?
+To elucidate this drive, this project positions the post-2008 subprime crisis era as a narrative frame. In this period, characterized by suicidal leaps from buildings, bankers deemed it necessary to utilize force to kickstart capital's recirculation. They hijacked the drive, buried it in buildings, and packaged it into an amusement park to rejuvenate the financial landscape.
+
+Are the bankers truly protecting individuals jumping from edifices, or are they even capitalizing on such desperate acts—the most lethal means of alleviating stress—to secure their own financial interests?
+
+Suddenly, we became aware that our labor-centric way of life is being driven by **an imperceptible force**. Now, do you know what this **force** is?
+
 </div>
 </details>
 </div>
