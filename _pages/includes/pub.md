@@ -30,11 +30,11 @@ Instructor: Yu Yan (Assistant Professor of SAUP)
 - **My Roles** : Individual Work
 - **Abstract** : J. Lacan’s Graph of Desire depicts an ascending **drive** which functions to relegate Jouissance to the peripheries of the body. This castration of the body culminates in acts such as speaking or excreting.
 
-To elucidate this drive, this project positions the post-2008 subprime crisis era as a narrative frame. In this period, characterized by suicidal leaps from buildings, bankers deemed it necessary to utilize force to kickstart capital's recirculation. They hijacked the drive, buried it in buildings, and packaged it into an amusement park to rejuvenate the financial landscape.
+    To elucidate this drive, this project positions the post-2008 subprime crisis era as a narrative frame. In this period, characterized by suicidal leaps from buildings, bankers deemed it necessary to utilize force to kickstart capital's recirculation. They hijacked the drive, buried it in buildings, and packaged it into an amusement park to rejuvenate the financial landscape.
 
-Are the bankers truly protecting individuals jumping from edifices, or are they even capitalizing on such desperate acts—the most lethal means of alleviating stress—to secure their own financial interests?
+    Are the bankers truly protecting individuals jumping from edifices, or are they even capitalizing on such desperate acts—the most lethal means of alleviating stress—to secure their own financial interests?
 
-Suddenly, we became aware that our labor-centric way of life is being driven by **an imperceptible force**. Now, do you know what this **force** is?
+    Suddenly, we became aware that our labor-centric way of life is being driven by **an imperceptible force**. Now, do you know what this **force** is?
 
 </div>
 </details>
