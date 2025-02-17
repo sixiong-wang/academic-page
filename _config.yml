@@ -28,8 +28,9 @@ analytics:
 author:
   name             : "Sixiong Wang"
   avatar           : "images/SixiongWangProfileImage.png"
-  bio              : "B.Arch \\ Chang'an University M.Arch \\ Architectural Association"
-  location         : "Hainan, China"
+  bio              : "M.Arch \\ Architectural Association School <br> 
+                      B.Arch \\ Chang'an University"
+  location         : "London, the UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
