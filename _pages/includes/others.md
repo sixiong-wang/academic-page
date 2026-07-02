@@ -1,12 +1,17 @@
 # 🎓 Educations
 
-* *Sep 2021 - Present*, Architectural Practice and Research
+* *Sep 2024 - Mar 2026*, M.Arch, Architectural and Urbanism, Architectural Association School, London
 * *Sep 2016 - Jul 2021*, B.Arch, Architecture, Chang'an Univeristy, Xi'an.
 * *Sep 2010 - Jul 2016*, Hainan Middle School, Haikou.
 
+
 # 💼 Work Experiences
 
-* ***Present* - Hainan Provincal Design and Reserch Institute Co., Ltd**
+* ***Present* - Minimaforms**
+  * **Founder: Theodore Spyropoulos**
+
+
+* ***Summer 2023* - Hainan Provincal Design and Reserch Institute Co., Ltd**
   * **Provincial, Grade A Architectural Design Institute**
   * Architectural Intern
   * Duties included: Designing, 3D Modeling, Profile Formatting
@@ -24,6 +29,7 @@
   * Duties included: Draft Designing, 3D Modeling, Rendering, Diagram Drawing
   * Supervisor: Rui Wang
   
+
 # 🗝️ Skills
 
 * Computer Skills:
