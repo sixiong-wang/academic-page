@@ -94,7 +94,10 @@ $(document).ready(function(){
         var projectPdf = this.currItem.el && this.currItem.el.attr("data-project-pdf");
         var $image = this.content.find(".mfp-img");
 
-        $image.off("click.projectPdf").css("cursor", projectPdf ? "pointer" : "");
+        $image
+          .off("click.projectPdf")
+          .css("cursor", projectPdf ? "pointer" : "")
+          .attr("title", projectPdf ? "Click again to access PDF" : "");
         if (projectPdf) {
           $image.on("click.projectPdf", function(event) {
             event.preventDefault();
@@ -105,7 +108,7 @@ $(document).ready(function(){
         }
       },
       close: function() {
-        $(".mfp-img").off("click.projectPdf").css("cursor", "");
+        $(".mfp-img").off("click.projectPdf").css("cursor", "").removeAttr("title");
       }
     },
     closeOnContentClick: false,
