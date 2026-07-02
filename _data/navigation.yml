@@ -1,10 +1,7 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/academic-page/#-about-me"
-
-  - title: "News"
-    url: "/academic-page/#-news"
+  - title: "Profile"
+    url: "/academic-page/#-profile"
 
   - title: "Selected Works"
     url: "/academic-page/#-selected-works"
@@ -19,4 +16,4 @@ main:
     url: "pdf/Curriculum-Vitae.pdf"
 
   - title: "Portfolio"
-    url: "pdf/Portfolio-20231231-FinalEdition-05-5.pdf"
+    url: "pdf/260415-Portfolio-19.pdf"
