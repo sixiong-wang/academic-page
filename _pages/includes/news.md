@@ -1,4 +1,4 @@
-# 🔥 News
+# 🔥 Updates
 
 - *Last Updated on this Website: 2nd Jul, 2026 14:51:02*
 

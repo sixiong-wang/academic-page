@@ -89,9 +89,27 @@ $(document).ready(function(){
       beforeOpen: function() {
         // just a hack that adds mfp-anim class to markup
         this.st.image.markup = this.st.image.markup.replace('mfp-figure', 'mfp-figure mfp-with-anim');
+      },
+      imageLoadComplete: function() {
+        var projectPdf = this.currItem.el && this.currItem.el.attr("data-project-pdf");
+        var $image = this.content.find(".mfp-img");
+
+        $image.off("click.projectPdf").css("cursor", projectPdf ? "pointer" : "");
+        if (projectPdf) {
+          $image.on("click.projectPdf", function(event) {
+            event.preventDefault();
+            event.stopPropagation();
+            $.magnificPopup.close();
+            window.location.href = projectPdf;
+          });
+        }
+      },
+      close: function() {
+        $(".mfp-img").off("click.projectPdf").css("cursor", "");
       }
     },
-    closeOnContentClick: true,
+    closeOnContentClick: false,
+    closeOnBgClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
