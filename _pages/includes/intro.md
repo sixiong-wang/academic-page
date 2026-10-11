@@ -8,5 +8,5 @@
 
 - My passion for architecture has never waned, and my design consciousness continuously focuses on the abstract "**movement**" of architecture: externally, how buildings narrate through silent forms; and internally, how static spaces guide dynamic behaviors of participants.
 
-- You can find my CV here: [**Curriculum Vitae**](../academic-page/pdf/260120-CV-v1.pdf).
+- You can find my CV here: [**Curriculum Vitae**](../academic-page/pdf/261011-CV.pdf).
 <br>You can find my design works here: [**Portfolio**](../academic-page/pdf/260415-Portfolio-19.pdf).
