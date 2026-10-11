@@ -28,13 +28,13 @@ analytics:
 author:
   name             : "Sixiong Wang"
   avatar           : "images/SixiongWangProfileImage.png"
-  bio              : "M.Arch \\ Architectural Association School <br> 
+  bio              : "M.Arch \\ AA School <br> 
                       B.Arch \\ Chang'an University"
   location         : "London, the UK"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "sixiong.wang@chd.edu.cn"
+  email            : "sixiong.wang@aaschool.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   issuu            : "sixiong.wang"
