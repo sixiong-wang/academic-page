@@ -11,7 +11,7 @@
   * **Founder: Theodore Spyropoulos**
 
 
-* ***Summer 2023* - Hainan Provincal Design and Reserch Institute Co., Ltd**
+* ***2023 to 2024* - Hainan Provincal Design and Reserch Institute Co., Ltd**
   * **Provincial, Grade A Architectural Design Institute**
   * Architectural Intern
   * Duties included: Designing, 3D Modeling, Profile Formatting
